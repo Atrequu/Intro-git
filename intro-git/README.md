@@ -15,6 +15,8 @@
 - <strong>git branch -d nombre-rama</strong> (eliminar rama)
 - <strong>git clone <i>url-repository</i> </strong> (clonar repositorio)
 - <strong>git pull origin nombre-rama</strong> (traer cambios del repositorio)
+- <strong>git push origin -d nombre-rama</strong> (eliminar una rama del repositorio de git hub)
+
 ### Tools
 - Fig -> Auto complete
 - Oh-my-zsh
