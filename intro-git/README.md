@@ -17,6 +17,8 @@
 - <strong>git clone <i>url-repository</i> </strong> (clonar repositorio)
 - <strong>git pull origin nombre-rama</strong> (traer cambios del repositorio)
 - <strong>git push origin -d nombre-rama</strong> (eliminar una rama del repositorio de git hub)
+- <strong>git reset --hard</strong> (Devolverse al último commit Nota: se elimina el commit actual)
+- <strong>git reset --hard<i>id-commit</i></strong> (Devolverse a un commit en específico Nota: se borra el último)
 
 ### Tools
 - Fig -> Auto complete
